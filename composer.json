@@ -1,0 +1,14 @@
+{
+    "name": "root/ajax",
+    "authors": [
+        {
+            "name": "Filipe",
+            "email": "assuncaofilipe@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "app\\":"app"
+        }
+    }
+}
